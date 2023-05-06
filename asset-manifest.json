@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salwamiasaleh/redux.git/static/css/main.a1407077.css",
+    "main.js": "/salwamiasaleh/redux.git/static/js/main.fa095052.js",
+    "index.html": "/salwamiasaleh/redux.git/index.html",
+    "main.a1407077.css.map": "/salwamiasaleh/redux.git/static/css/main.a1407077.css.map",
+    "main.fa095052.js.map": "/salwamiasaleh/redux.git/static/js/main.fa095052.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1407077.css",
+    "static/js/main.fa095052.js"
+  ]
+}
